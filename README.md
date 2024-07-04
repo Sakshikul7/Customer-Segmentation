@@ -4,7 +4,6 @@ Data Loading and Exploration:
     Used df.info() to get an overview of the dataset, including data types and missing values.
     Visualized categorical data distribution with a count plot (sns.countplot for gender and a pie chart for preferred category).
 
-
 Data Visualization:
     Plotted a line plot (sns.lineplot) to analyze the relationship between income and spending score.
     Created an age group feature (df['age_group']) by binning ages into groups and visualized its distribution using a pie chart.
